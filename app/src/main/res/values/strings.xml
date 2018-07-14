@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teste House</string>
+    <string name="view_matricula">Matrícula</string>
+    <string name="view_senha">Senha</string>
+    <string name="botao_login">Login</string>
+    <string name="receber_matricula">Matricula</string>
+    <string name="receber_senha">Senha</string>
+</resources>
